@@ -1,0 +1,12 @@
+export '/pages/beneficios/beneficio_page.dart';
+export '/pages/bloques/nueve_bloques_page.dart';
+export '/pages/descargar/descargar_plantilla.dart';
+export '/pages/formacion/formacion_adicional_page.dart';
+export '/pages/home/components/my_drawer.dart';
+export '/pages/home/components/my_home_drawer.dart';
+export '/pages/home/home_page.dart';
+export '/pages/leancanvas/canvas_page.dart';
+export '/pages/metodologia/metodologia_lean_page.dart';
+export '/pages/modevslean/mode_vs_lean_page.dart';
+export '/pages/splash/splash_page.dart';
+export 'presentation/presentation.dart';
