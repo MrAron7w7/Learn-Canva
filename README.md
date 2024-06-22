@@ -5,9 +5,11 @@ Aplicativo sobre como entender los conceptos basicos de Lean Canvas
 
 # Ejemplos de la aplicación
 
-<img src="assets/examples/1.jpg" alt="Logo" width="500">
-<img src="assets/examples/2.jpg" alt="Logo" width="500">
-<img src="assets/examples/3.jpg" alt="Logo" width="500">
+<img src="assets/examples/1.jpg" alt="Logo" width="300">
+<img src="assets/examples/2.jpg" alt="Logo" width="300">
+<img src="assets/examples/3.jpg" alt="Logo" width="300">
+
+
 
 ## Características
 
