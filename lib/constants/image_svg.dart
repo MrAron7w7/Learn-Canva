@@ -7,4 +7,7 @@ class ImageAssets {
   static String beneficios = 'assets/svg/beneficios.svg';
   static String nueveBloques = 'assets/img/bloques.jpg';
   static String diferencia = 'assets/img/diferencia.jpg';
+  static String leanStartup = 'assets/img/leanstart.jpg';
+  static String info = 'assets/img/info.png';
+  static String downloads = 'assets/svg/downlos.svg';
 }
